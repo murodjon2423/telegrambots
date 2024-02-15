@@ -1,0 +1,15 @@
+telegram bot 
+telegram bot bu chatlar guruhlar kanalarni boshqarish uchun telegram ichidagi dastur hisoblanadi
+telegram botni  bot fatherdan token olib ishga tushiramiz 
+token telegram botni tashqaridan boshqarish imkonini beruvchi telegram ruhsati
+bizni telegram botni nomi-"MyChatGPT_bot"-uni linki ->"https://t.me/myonetel_bot"
+bot havsizligi jihatdan token havsiz saqlanishi kerak
+my token->"6454527226:AAFpK1c-QFoe0BpS7sRF_wpweAD8M_zYjlg"
+
+Telegam bot bilan ishlovchi bir nechta kutubhona dasturlari bor 
+lekin telegram botni o`zini api orqali ham murojat qilib uni boshqarishimiz mumkin lekin vaqt va resurs jiatdan yutish uchun 
+kutubhonalardan foydalanish tavsiya etiladi .Yuqori havsizlik talab etilganda api bilan ishlansin
+in line query @gif programmer  shu so`rov orqali murojat qila olishga yatiladi.
+bot habar jo`nata olishi uchun u bloklanmagan va start bosilgan kanal yoki guruhda bolsa kirish huquqi bolishi kerak.
+
+Aiogram kutubhonasini o`ratish pip insatll aiogram
