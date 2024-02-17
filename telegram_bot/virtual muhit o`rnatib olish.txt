@@ -1,0 +1,18 @@
+Python telegram muhit uchun ko`rsatma .
+python -m venv venv  komandasi ayni shu faylni o`zi uchun 
+agar ishlamasa virtualenv venv yoki python -m virtualenv venv
+yaratib olgan muhitimizni ichiga kirib uni activlashtirib olamiz 
+va uni ichiga kerakli dasturlarni yozib olish uchun komandamiz
+c:\Telegrambot\CC_bot>venv\Scripts\activate
+(venv) c:\Telegram\CC_bot>  pip install aiogram 
+(venv) c:\Telegram\CC_bot>  pip install requests
+o`rnatib olingan dasturlarni ro`yhatini olish uchun
+pip list
+botimizni onlinga chiqarganimizda yoki boshqa joyga ko`chirib o`tkazish jarayon
+ida hatolik bolmasligi uchun biz foydalanayotgan barcha kutubhonalar muhitini 
+saqlab qo`yamiz
+(venv) c:\Telegram\CC_bot>  pip freeze >  "textfaylnomi".txt
+muhit yaratish boyicha ko`rsatma.
+
+
+
